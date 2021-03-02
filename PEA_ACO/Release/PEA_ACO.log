@@ -1,0 +1,14 @@
+﻿  PEA_ACO.cpp
+C:\Users\grzes\source\repos\PEA_ACO\PEA_ACO\PEA_ACO.cpp(37,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\grzes\source\repos\PEA_ACO\PEA_ACO\PEA_ACO.cpp(49,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\grzes\source\repos\PEA_ACO\PEA_ACO\PEA_ACO.cpp(69,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\grzes\source\repos\PEA_ACO\PEA_ACO\PEA_ACO.cpp(149,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\grzes\source\repos\PEA_ACO\PEA_ACO\PEA_ACO.cpp(207,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\grzes\source\repos\PEA_ACO\PEA_ACO\PEA_ACO.cpp(290,53): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\grzes\source\repos\PEA_ACO\PEA_ACO\PEA_ACO.cpp(248,17): warning C4101: "phermone_rate": lokalna zmienna, do której nie istnieje odwołanie
+  Trwa generowanie kodu
+  1 of 543 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  PEA_ACO.vcxproj -> C:\Users\grzes\source\repos\PEA_ACO\Release\PEA_ACO.exe
